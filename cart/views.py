@@ -65,3 +65,5 @@ def full_remove(request,product_id):
 
 
 
+
+
